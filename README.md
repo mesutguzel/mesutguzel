@@ -22,7 +22,7 @@
 <a href="https://codepen.io/mesut3501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mesut3501" height="30" width="40" /></a>
 <a href="https://dev.to/mesutguzel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mesutguzel" height="30" width="40" /></a>
 <a href="https://twitter.com/mesutguzel1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mesutguzel1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mesutdoganguzel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mesut doganguzel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mesut-doganguzel-b5a04618b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mesut doganguzel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
