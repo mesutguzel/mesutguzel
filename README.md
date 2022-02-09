@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mesutguzel3501@gmail.com**
 <p float="left"><img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" width="400px" height="300px">
-<img src="https://github.com/mesutguzel/madebymdg/blob/main/madebymdg/main/MDG.gif" width="400px" height="300px"></p>
+<img src="https://user-images.githubusercontent.com/77083678/153113402-d2c73a1c-2674-4537-a640-f3943b6ade17.gif" width="400px" height="300px"></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/mesut3501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mesut3501" height="30" width="40" /></a>
