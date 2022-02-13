@@ -13,6 +13,7 @@
 - 🌱 I’m currently learning **AWS, Docker and Kubernetes**
 
 - 👨‍💻 All of my projects are available at [http://mesutwebsite.s3-website-us-east-1.amazonaws.com/](http://mesutwebsite.s3-website-us-east-1.amazonaws.com/)
+- 👨‍💻 Check my resume from my s3bucket: [https://s3.amazonaws.com/www.mesutdoganguzel.ca/index.html](https://s3.amazonaws.com/www.mesutdoganguzel.ca/index.html)
 
 - 📫 How to reach me **mesutguzel3501@gmail.com**
 <p float="left"><img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" width="400px" height="300px">
