@@ -1,7 +1,7 @@
 ![MasterHead](https://www.optimizedapps.com/wp-content/uploads/2018/02/cloud_banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Mesut Doganguzel</h1>
-<h3 align="center">A passionate DevOps from Canada</h3>
+<h3 align="center">A passionate DevOps Engineer from Canada</h3>
 
 
 
