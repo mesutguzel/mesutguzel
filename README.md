@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/mesutguzel1" target="blank"><img src="https://img.shields.io/twitter/follow/mesutguzel1?logo=twitter&style=for-the-badge" alt="mesutguzel1" /></a> </p>
 
-- 🌱 I’m currently learning **AWS, Docker and Kubernetes**
+- 🌱 I’m currently learning **AWS, Azure and GCP, Docker and Kubernetes**
 
 - 👨‍💻 All of my projects are available at [http://mesutwebsite.s3-website-us-east-1.amazonaws.com/](http://mesutwebsite.s3-website-us-east-1.amazonaws.com/)
 - 👨‍💻 Check my resume from my s3bucket: [https://s3.amazonaws.com/www.mesutdoganguzel.ca/index.html](https://s3.amazonaws.com/www.mesutdoganguzel.ca/index.html)
