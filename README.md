@@ -14,7 +14,7 @@
 
 
 - 📫 How to reach me **mesutguzel3501@gmail.com**
-[my cloud resume](https://us-central1-summer-reef-379316.cloudfunctions.net/function-1)
+- [MY CLOUD RESUME](https://us-central1-summer-reef-379316.cloudfunctions.net/function-1)
 <p float="left"><img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" width="400px" height="300px">
 <img src="https://cdn.dribbble.com/users/249246/screenshots/2969925/workingman.gif" width="400px" height="300px"></p>
 <h3 align="left">Connect with me:</h3>
