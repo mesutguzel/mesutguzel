@@ -14,11 +14,11 @@
 
 
 - 📫 How to reach me **mesutguzel3501@gmail.com**
+[my cloud resume](https://us-central1-summer-reef-379316.cloudfunctions.net/function-1)
 <p float="left"><img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" width="400px" height="300px">
 <img src="https://cdn.dribbble.com/users/249246/screenshots/2969925/workingman.gif" width="400px" height="300px"></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[my cloud resume](https://us-central1-summer-reef-379316.cloudfunctions.net/function-1)
 <a href="https://codepen.io/mesut3501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mesut3501" height="30" width="40" /></a>
 <a href="https://dev.to/mesutguzel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mesutguzel" height="30" width="40" /></a>
 <a href="https://twitter.com/mesutguzel1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mesutguzel1" height="30" width="40" /></a>
