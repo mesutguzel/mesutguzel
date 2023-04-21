@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/mesutguzel3501" target="blank"><img src="https://img.shields.io/twitter/follow/mesutguzel1?logo=twitter&style=for-the-badge" alt="mesutguzel1" /></a> </p>
 
-- 🌱 I’m experienced with **AWS, Azure and GCP, Docker and Kubernetes**
+- 🌱 I’m experienced with **AWS, Azure and GCP, Terraform, Docker and Kubernetes**
 
 
 - 📫 How to reach me **mesutguzel3501@gmail.com**
